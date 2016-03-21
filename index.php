@@ -23,9 +23,9 @@
     <?php include 'navbar.php'; ?>
     <div class="container">
         <h1>Hello, world!</h1>
+        <?php include 'footer.php'; ?>
     </div>
     <!-- /.container -->
-
 
     <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
     <script src="js/vendor/jquery.min.js"></script>
