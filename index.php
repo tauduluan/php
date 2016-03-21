@@ -1,3 +1,4 @@
+<?php include 'artis.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -22,7 +23,23 @@
   <body>
     <?php include 'navbar.php'; ?>
     <div class="container">
-        <h1>Hello, world!</h1>
+        <div class="row">
+          <div class="col-md-4">
+            <img src="<?php echo $artis[2] ?>" alt="" />
+            <h3><?php echo $artis[0] ?></h3>
+            <h6><?php echo $artis[1] ?></h6>
+          </div>
+          <div class="col-md-4">
+            <img src="<?php echo $artis[2] ?>" alt="" />
+            <h3><?php echo $artis[0] ?></h3>
+            <h6><?php echo $artis[1] ?></h6>
+          </div>
+          <div class="col-md-4">
+            <img src="<?php echo $artis[2] ?>" alt="" />
+            <h3><?php echo $artis[0] ?></h3>
+            <h6><?php echo $artis[1] ?></h6>
+          </div>
+        </div>
         <?php include 'footer.php'; ?>
     </div>
     <!-- /.container -->
