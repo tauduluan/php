@@ -12,6 +12,9 @@
     <!-- Loading Flat UI -->
     <link href="css/flat-ui.min.css" rel="stylesheet">
 
+    <!-- Costum CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
