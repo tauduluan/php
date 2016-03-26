@@ -31,6 +31,9 @@
         waktu: date
       });
 
+      // Friendly message
+      alert('Terima kasih atas komentar mu')
+
       return true;
     }
   }
