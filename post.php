@@ -68,10 +68,11 @@
           esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
           in culpa qui officia deserunt mollit anim id est laborum.
       </div>
+      <?php include 'comment.php'; ?>            
       <div class="pull-right">
         <button class="btn btn-share facebook"><i class="fa fa-facebook"></i> Share</button>
         <button class="btn btn-share twitter"><i class="fa fa-twitter"></i> Share</button>
-      </div><br>
+      </div><br><br>
       <br><?php include 'footer.php' ?>
   </div>
   <!-- /.container -->
