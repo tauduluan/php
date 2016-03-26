@@ -1,3 +1,15 @@
+button.facebook {
+	background-color: #3b5998;
+	color: #fff;	
+	text-transform: uppercase;
+}
+
+button.twitter {
+	background-color: #55acee;
+	color: #fff;	
+	text-transform: uppercase;
+}
+
 footer {
   margin-top: 25px;
 }
