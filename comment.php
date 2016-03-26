@@ -15,6 +15,10 @@
     if (input == '') {
       alert('Input is not filled')
     } else {
+      // Log input value
+      console.log('Nama: ' + nama);
+      console.log('Komentar: ' + komentar);
+      
       // Post data to firebase
       comments.push().set({
         nama: nama,
