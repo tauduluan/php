@@ -12,6 +12,9 @@
     var komentar = $('#komentar').val();
     var input = $('.input').val();
 
+    // Time
+    var date = new Date();
+
     if (input == '') {
       alert('Input is not filled')
       return false;
@@ -19,11 +22,13 @@
       // Log input value
       console.log('Nama: ' + nama);
       console.log('Komentar: ' + komentar);
+      console.log('Waktu: ' + date);
 
       // Post data to firebase
       comments.push().set({
         nama: nama,
-        komentar: komentar
+        komentar: komentar,
+        waktu: date
       });
 
       return true;
