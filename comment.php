@@ -1,22 +1,21 @@
-<div id="disqus_thread"></div>
-<script>
-/**
-* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
+<input type="text" class="form-control" placeholder="Nama.." id="nama"><br>
+<textarea rows="8" id="komentar" placeholder="Komentar anda.." class="form-control"></textarea><br>
+<button class="btn btn-info" onclick="postComment()">Submit</button>
+<script type="text/javascript">
+  function postComment() {
+    // Firebase
+    var ref = new Firebase("https://tauduluan.firebaseio.com");
+    var comments = ref.child("comments");
 
-s.src = '//tauduluan-id.disqus.com/embed.js';
+    // Get input value
+    var nama = $('#nama').val();
+    var komentar = $('#komentar').val();
 
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+    // Post data to firebase
+    comments.push().set({
+      nama: nama,
+      komentar: komentar
+    })
+  }
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js" charset="utf-8"></script>

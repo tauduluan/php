@@ -1,13 +1,21 @@
 button.facebook {
 	background-color: #3b5998;
-	color: #fff;	
+	color: #fff;
 	text-transform: uppercase;
 }
 
 button.twitter {
 	background-color: #55acee;
-	color: #fff;	
+	color: #fff;
 	text-transform: uppercase;
+}
+
+.form-control {
+	/*width: 200px;*/
+}
+
+#komentar {	
+	height: 100px;
 }
 
 footer {

@@ -68,8 +68,10 @@
           esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
           in culpa qui officia deserunt mollit anim id est laborum.
       </div>
-      <?php include 'comment.php'; ?>            
-      <div class="pull-right">
+      <div class="col-md-8">
+        <?php include 'comment.php'; ?>
+      </div>
+      <div class="pull-right col-md-4">
         <button class="btn btn-share facebook"><i class="fa fa-facebook"></i> Share</button>
         <button class="btn btn-share twitter"><i class="fa fa-twitter"></i> Share</button>
       </div><br><br>
