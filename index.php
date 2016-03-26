@@ -26,6 +26,7 @@
   <body>
     <?php include 'navbar.php'; ?>
     <div class="container">
+        <?php include 'headline.php' ?>
         <div class="row">
           <div class="col-md-4">
             <img src="<?php echo $artis[2] ?>" alt="" />
