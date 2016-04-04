@@ -2,7 +2,7 @@
   function navbar($link, $title){
     echo "<li><a href=\"";
     echo $link;
-    echo ".html\">";
+    echo "\">";
     echo $title;
     echo "</a></li>";
   }
@@ -15,7 +15,7 @@
     <a class="navbar-brand" href="index.php">TauDuluan</a>
   </div>
   <div class="collapse navbar-collapse" id="navbar">
-    <ul class="nav navbar-nav">      
+    <ul class="nav navbar-nav">
       <?php navbar('trending', 'Trending') ?>
       <?php navbar('artis', 'Artis') ?>
       <?php navbar('hotnews', 'Hotnews') ?>
