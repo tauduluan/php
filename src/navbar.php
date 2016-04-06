@@ -1,6 +1,6 @@
 <?php
   function navbar($link, $title){
-    echo "<li><a href=\"";
+    echo "<li><a href=\"../";
     echo $link;
     echo "\">";
     echo $title;
