@@ -1,15 +1,15 @@
 function postComment() {
   // Firebase
-  var ref = new Firebase("https://tauduluan.firebaseio.com");
-  var comments = ref.child("comments");
+  var ref = new Firebase("https://tauduluan.firebaseio.com"),
+      comments = ref.child("comments");
 
   // Get input value
-  var nama = $('#nama').val();
-  var komentar = $('#komentar').val();
-  var input = $('.input').val();
+  var nama = $('#nama').val(),
+      komentar = $('#komentar').val(),
+      input = $('.input').val();
 
   // Time
-  var date = new Date();
+  var date = new Date(),
   right_now = date.getFullYear() + '-' + date.getMonth() + '-' + date.getDate();
 
   if (input == '') {
