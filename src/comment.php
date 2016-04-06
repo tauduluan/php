@@ -14,6 +14,7 @@
 
     // Time
     var date = new Date();
+    right_now = date.getFullYear() + '-' + date.getMonth() + '-' + date.getDate();
 
     if (input == '') {
       alert('Input is not filled')
@@ -25,13 +26,13 @@
       // Log input value
       console.log('Nama: ' + nama);
       console.log('Komentar: ' + komentar);
-      console.log('Waktu: ' + date);
+      console.log('Waktu: ' + right_now);
 
       // Post data to firebase
       comments.push().set({
         nama: nama,
         komentar: komentar,
-        waktu: date
+        waktu: right_now
       });
 
       // Friendly message
