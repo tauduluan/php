@@ -1,5 +1,5 @@
 <?php
-  function navbar($link, $title){
+  function navigation($link, $title){
     echo "<li><a href=\"../";
     echo $link;
     echo "\">";
@@ -16,11 +16,11 @@
   </div>
   <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav">
-      <?php navbar('trending', 'Trending') ?>
-      <?php navbar('artis', 'Artis') ?>
-      <?php navbar('hotnews', 'Hotnews') ?>
-      <?php navbar('populer', 'Populer') ?>
-      <?php navbar('wawancara', 'Wawancara') ?>
+      <?php navigation('trending', 'Trending') ?>
+      <?php navigation('artis', 'Artis') ?>
+      <?php navigation('hotnews', 'Hotnews') ?>
+      <?php navigation('populer', 'Populer') ?>
+      <?php navigation('wawancara', 'Wawancara') ?>
     </ul>
   </div>
 </nav>
