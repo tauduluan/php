@@ -18,6 +18,9 @@
     if (input == '') {
       alert('Input is not filled')
       return false;
+    } else if (komentar.length < 10) {
+      alert('Komentar kamu kurang panjang');
+      return false;
     } else {
       // Log input value
       console.log('Nama: ' + nama);
