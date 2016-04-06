@@ -2,9 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <?php include 'meta.php'; ?>    
+    <?php include 'meta.php'; ?>
     <title>TauDuluan</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Loading Bootstrap -->
     <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
