@@ -1,8 +1,8 @@
-<?php include 'artis.php'; ?>
+<?php include 'src/artis.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <?php include 'meta.php'; ?>
+    <?php include 'src/meta.php'; ?>
     <title>TauDuluan</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -24,9 +24,9 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'navbar.php'; ?>
+    <?php include 'src/navbar.php'; ?>
     <div class="container">
-        <?php include 'headline.php' ?>
+        <?php include 'src/headline.php' ?>
         <div class="row">
           <div class="col-md-4">
             <img src="<?php echo $artis[2] ?>" alt="" />
@@ -47,7 +47,7 @@
             <button class="btn btn-primary" onclick="window.location.href='post.php'">Read More</button>
           </div>
         </div>
-        <?php include 'footer.php'; ?>
+        <?php include 'src/footer.php'; ?>
     </div>
     <!-- /.container -->
 
