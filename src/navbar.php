@@ -12,7 +12,7 @@
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
       <span class="sr-only">Toggle navigation</span>
     </button>
-    <a class="navbar-brand" href="index.php">TauDuluan</a>
+    <a class="navbar-brand" href="https://protected-wave-85129.herokuapp.com/index.php">TauDuluan</a>
   </div>
   <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav">
