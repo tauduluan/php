@@ -1,10 +1,10 @@
-button.facebook {
+.facebook {
 	background-color: #3b5998;
 	color: #fff;
 	text-transform: uppercase;
 }
 
-button.twitter {
+.twitter {
 	background-color: #55acee;
 	color: #fff;
 	text-transform: uppercase;

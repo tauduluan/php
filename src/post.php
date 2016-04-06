@@ -76,8 +76,8 @@
         <?php include 'comment.php'; ?>
       </div>
       <div class="pull-right col-md-4">
-        <button class="btn btn-share facebook"><i class="fa fa-facebook"></i> Share</button>
-        <button class="btn btn-share twitter"><i class="fa fa-twitter"></i> Share</button>
+        <a class="btn btn-share facebook"><i class="fa fa-facebook"></i> Share</a>
+        <a class="btn btn-share twitter"><i class="fa fa-twitter"></i> Share</a>
       </div><br><br>
       <br><?php include 'footer.php' ?>
   </div>
