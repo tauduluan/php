@@ -5,13 +5,13 @@
     <title>TauDuluan</title>
 
     <!-- Loading Bootstrap -->
-    <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/vendor/bootstrap.min.css" rel="stylesheet">
 
     <!-- Loading Flat UI -->
-    <link href="css/flat-ui.min.css" rel="stylesheet">
+    <link href="../css/flat-ui.min.css" rel="stylesheet">
 
     <!-- Costum CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
     <link rel="shortcut icon" href="img/favicon.ico">
 

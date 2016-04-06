@@ -6,16 +6,16 @@
     <title>TauDuluan</title>
 
     <!-- Loading Bootstrap -->
-    <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/vendor/bootstrap.min.css" rel="stylesheet">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- Loading Flat UI -->
-    <link href="css/flat-ui.min.css" rel="stylesheet">
+    <link href="../css/flat-ui.min.css" rel="stylesheet">
 
     <!-- Costum CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
     <link rel="shortcut icon" href="img/favicon.ico">
 
