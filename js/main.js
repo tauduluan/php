@@ -13,10 +13,18 @@ function postComment() {
   right_now = date.getFullYear() + '-' + date.getMonth() + '-' + date.getDate();
 
   if (input == '') {
-    alert('Input is not filled')
+    swal({
+      title: "Input is not filled",
+      text: "Input is not filled",
+      type: "error"
+    })
     return false;
   } else if (komentar.length < 10) {
-    alert('Komentar kamu kurang panjang');
+    swal({
+      title: "Komentar kurang panjang",
+      text: "Komentar kamu kurang panjang",
+      type: "error"
+    })
     return false;
   } else {
     // Log input value
@@ -32,7 +40,11 @@ function postComment() {
     });
 
     // Friendly message
-    alert('Terima kasih atas komentar mu')
+    swal({
+      title: "Terima kasih atas komentar kamu",
+      text: "Terima kasih atas komentar kamu",
+      type: "success"
+    })
 
     return true;
   }
