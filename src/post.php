@@ -8,6 +8,15 @@
 <html lang="en">
   <head>
     <?php include 'meta.php'; ?>
+    <meta property="og:site_name" content="TauDuluan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="TauDuluan" />
+    <meta property="og:description" content="<?php echo $post_desc; ?>" />
+    <meta property="og:url" content="<?php echo $post_url; ?>" />
+    <meta name="twitter:card" content="TauDuluan" />
+    <meta name="twitter:title" content="TauDuluan" />
+    <meta name="twitter:description" content="<?php echo $post_desc; ?>" />
+    <meta name="twitter:url" content="<?php echo $post_url; ?>" />
     <title>TauDuluan</title>
 
     <!-- Loading Bootstrap -->
