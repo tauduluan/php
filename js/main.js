@@ -54,3 +54,7 @@ function postComment() {
 function readPost(title) {
   window.location.href = 'post/' + title + '.php';
 }
+
+function viewArtis(username) {
+  window.location.href = username + '/' + 'index.php'
+}
