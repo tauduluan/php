@@ -1,9 +1,4 @@
 <?php include 'artis.php' ?>
-<?php
-  $post_name = "Judul Artikel";
-  $post_desc = "Deskripsi Artikel";
-  $post_url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
- ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
