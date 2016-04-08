@@ -44,6 +44,20 @@
         </div>
       </div>
       <hr>
+      <div class="row">
+        <div class="col-md-3">
+          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
+        </div>
+        <div class="col-md-3">
+          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
+        </div>
+        <div class="col-md-3">
+          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
+        </div>
+        <div class="col-md-3">
+          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
+        </div>
+      </div>
       <!-- <div class="col-md-8">
         <?php include 'comment.php'; ?>
       </div><br> -->
