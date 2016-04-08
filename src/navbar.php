@@ -1,6 +1,6 @@
 <?php
   function navigation($link, $title){
-    echo "<li><a href=\"../";
+    echo "<li><a href=\"../../";
     echo $link;
     echo "\">";
     echo $title;
@@ -12,7 +12,7 @@
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
       <span class="sr-only">Toggle navigation</span>
     </button>
-    <a class="navbar-brand" href="../index.php">TauDuluan</a>
+    <a class="navbar-brand" href="https://tau-duluan.herokuapp.com">TauDuluan</a>
   </div>
   <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav">
