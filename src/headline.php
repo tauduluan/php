@@ -1,6 +1,6 @@
 <div class="row">
   <div class="headline col-md-8">
-    <img src="https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0" alt="" />
+    <img src="https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0" alt="" class="headline-img"/>
     <h2>Headline TauDuluan</h2>
     <h6>
       Lorem ipsum dolor sit amet.
