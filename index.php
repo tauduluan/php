@@ -51,15 +51,6 @@
     <script src="js/vendor/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/flat-ui.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function (){
-          var width = $(window).width(),
-              costumizedWith = width - 30,
-              image = $('.artis-img');
-              headline = $('.headline-img');
-          image.css('width', costumizedWith);
-          headline.css('width', costumizedWith);
-      });
-    </script>
+    <script src="js/responsive.js" charset="utf-8"></script>
   </body>
 </html>
