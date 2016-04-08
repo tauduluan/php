@@ -40,7 +40,7 @@
           <h4 class="artis-desc">Penyanyi dan Aktor</h4>
         </div>
         <div class="col-md-3 col-xs-12">
-          <img src="https://placehold.it/190x190?text=Ads" class="img-rounded artis-img" />
+          <img src="https://placehold.it/190x190?text=Ads" class="img-rounded artis-ads" />
         </div>
       </div>
       <hr>
