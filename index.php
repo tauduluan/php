@@ -28,7 +28,7 @@
             <img src="<?php echo $gita_gutawa[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $gita_gutawa[0] ?></h3>
             <h6><?php echo $gita_gutawa[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('gita_gutawa')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
