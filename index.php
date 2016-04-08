@@ -13,16 +13,6 @@
 
     <!-- Costum CSS -->
     <link rel="stylesheet" href="css/style.css">
-    <script type="text/javascript">
-    $(document).ready(function (){
-       if(navigator.userAgent.toLowerCase().indexOf("android") > -1){
-           window.location.href = 'mobile/index.php';
-       }
-       if(navigator.userAgent.toLowerCase().indexOf("iphone") > -1){
-           window.location.href = 'mobile/index.php';
-       }
-});
-    </script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.js"></script>
@@ -35,19 +25,19 @@
         <?php include 'src/headline.php' ?>
         <div class="row">
           <div class="col-md-4 ajr">
-            <img src="<?php echo $artis[2] ?>" alt="" />
+            <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
           </div>
           <div class="col-md-4 ajr">
-            <img src="<?php echo $artis[2] ?>" alt="" />
+            <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
           </div>
           <div class="col-md-4 ajr">
-            <img src="<?php echo $artis[2] ?>" alt="" />
+            <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
@@ -61,6 +51,13 @@
     <script src="js/vendor/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/flat-ui.min.js"></script>
-
+    <script type="text/javascript">
+      $(document).ready(function (){
+          var width = $(window).width(),
+              costumizedWith = width - 30,
+              image = $('.artis-img');              
+          image.css('width', costumizedWith)
+      });
+    </script>
   </body>
 </html>
