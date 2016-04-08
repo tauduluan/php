@@ -89,6 +89,7 @@
       <?php include 'footer.php' ?>
   </div>
   <!-- /.container -->
+</body>
 
     <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
     <script src="../js/vendor/jquery.min.js"></script>
