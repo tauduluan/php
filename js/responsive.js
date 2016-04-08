@@ -8,10 +8,18 @@ $(document).ready(function (){
         headline = $('.headline-img'),
         ads = $('.ads');
 
-    // Set the width css
-    image.css('width', costumizedWidth);
-    headline.css('width', costumizedWidth);
-    ads.css('width', costumizedWidth);
+    if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
+      // Set the width css
+      image.css('width', costumizedWidth);
+      headline.css('width', costumizedWidth);
+      ads.css('width', costumizedWidth);
+    }
+    else if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1 ){
+      // Set the width css
+      image.css('width', costumizedWidth);
+      headline.css('width', costumizedWidth);
+      ads.css('width', costumizedWidth);
+    }
 });
 
 function readPost(title) {
