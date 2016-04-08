@@ -86,7 +86,7 @@
       </div>
       <div class="col-md-8">
         <?php include 'comment.php'; ?>
-      </div>
+      </div><br>
       <div class="pull-right col-md-4">
         <a class="btn btn-share facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $post_url ?>"><i class="fa fa-facebook"></i> Share</a>
         <a class="btn btn-share twitter" href="https://twitter.com/share?text=<?php echo $post_desc?>&url=<?php echo $post_url ?>"><i class="fa fa-twitter"></i> Share</a>
