@@ -12,7 +12,7 @@ function postComment() {
   var date = new Date(),
   right_now = date.getFullYear() + '-' + date.getMonth() + '-' + date.getDate();
 
-  if (input == '') {
+  if (input === '') {
     swal({
       title: "Input is not filled",
       text: "Input is not filled",
