@@ -28,19 +28,19 @@
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
+            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
+            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
+            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
         </div>
         <?php include 'src/footer.php'; ?>
@@ -52,5 +52,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/flat-ui.min.js"></script>
     <script src="js/responsive.js" charset="utf-8"></script>
+    <script src="js/main.js" charset="utf-8"></script>
   </body>
 </html>

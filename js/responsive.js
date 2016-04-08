@@ -13,3 +13,7 @@ $(document).ready(function (){
     headline.css('width', costumizedWidth);
     ads.css('width', costumizedWidth);
 });
+
+function readPost(title) {
+  window.location.href = 'post/' + title + '.php';
+}
