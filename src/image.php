@@ -46,18 +46,27 @@
       <hr>
       <div class="row">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
       </div><br><br>
       <div class="row">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
       </div><br><br>
       <div class="row">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <center><figcaption class="image-caption">Caption</figcaption></center>
       </div><br><br>
       </div>
       <!-- <div class="col-md-8">

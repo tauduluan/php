@@ -29,7 +29,12 @@
 
 .artis-image-post {
 	margin-left: 55px;
-	margin-bottom: 15px;
+}
+
+.image-caption {
+	color: #90A4AE;
+	font-size: 25px;
+	margin-bottom: 20px;
 }
 
 #komentar {
