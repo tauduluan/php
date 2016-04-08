@@ -25,19 +25,19 @@
     <div class="container">
         <?php include 'src/headline.php' ?>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" />
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" />
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="window.location.href='src/post.php'">Read More</button>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" />
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
@@ -50,7 +50,7 @@
 
     <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
     <script src="js/vendor/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->    
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/flat-ui.min.js"></script>
 
   </body>
