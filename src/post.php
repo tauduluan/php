@@ -47,14 +47,14 @@
   <div class="container">
       <div class="artis row">
         <div class="col-md-3">
-          <img src="https://placehold.it/250x180?text=Artis" class="img-rounded"/>
+          <img src="https://placehold.it/250x180?text=Artis" class="img-rounded artis-img"/>
         </div>
         <div class="col-md-6">
           <h3><?php echo $artis[0]; ?></h3>
           <h4>Penyanyi dan Aktor</h4>
         </div>
         <div class="col-md-3">
-          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded" />
+          <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
         </div>
       </div>
       <hr>
@@ -99,4 +99,6 @@
     <script src="../js/vendor/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="../js/flat-ui.min.js"></script>
+    <!-- Responsive -->
+    <script src="../js/responsive.js" charset="utf-8"></script>
 </html>
