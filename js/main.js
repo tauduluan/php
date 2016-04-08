@@ -49,3 +49,7 @@ function postComment() {
     return true;
   }
 }
+
+function readPost(title) {
+  window.location.href = 'post/' + title + '.php';
+}
