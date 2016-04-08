@@ -8,15 +8,6 @@
 <html lang="en">
   <head>
     <?php include 'meta.php'; ?>
-    <meta property="og:site_name" content="TauDuluan" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="TauDuluan" />
-    <meta property="og:description" content="<?php echo $post_desc; ?>" />
-    <meta property="og:url" content="<?php echo $post_url; ?>" />
-    <meta name="twitter:card" content="TauDuluan" />
-    <meta name="twitter:title" content="TauDuluan" />
-    <meta name="twitter:description" content="<?php echo $post_desc; ?>" />
-    <meta name="twitter:url" content="<?php echo $post_url; ?>" />
     <title>TauDuluan</title>
 
     <!-- Loading Bootstrap -->
@@ -87,10 +78,10 @@
       <div class="col-md-8">
         <?php include 'comment.php'; ?>
       </div><br>
-      <div class="pull-right col-md-4">
+      <!-- <div class="pull-right col-md-4">
         <a class="btn btn-share facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $post_url ?>"><i class="fa fa-facebook"></i> Share</a>
         <a class="btn btn-share twitter" href="https://twitter.com/share?text=<?php echo $post_desc?>&url=<?php echo $post_url ?>"><i class="fa fa-twitter"></i> Share</a>
-      </div><br><br>
+      </div><br><br> -->
       <br><?php include 'footer.php' ?>
   </div>
   <!-- /.container -->
