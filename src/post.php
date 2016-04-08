@@ -51,7 +51,7 @@
         </div>
         <div class="col-md-6">
           <h3><?php echo $artis[0]; ?></h3>
-          <h4>Penyanyi dan Aktor</h4>
+          <h4 class="artis-desc">Penyanyi dan Aktor</h4>
         </div>
         <div class="col-md-3">
           <img src="https://placehold.it/200x200?text=Ads" class="img-rounded artis-img" />
