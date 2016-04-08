@@ -10,6 +10,7 @@ $(document).ready(function (){
         headline = $('.headline-img'),
         ads = $('.ads');
         artisAds = $('.artis-ads')
+        imagePost = $('.artis-image-post')
 
     if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
       // Set the width css
@@ -18,6 +19,7 @@ $(document).ready(function (){
       ads.css('width', costumizedWidth);
       artisAds.css('height', minimizedHeight);
       artisAds.css('width', costumizedWidth);
+      imagePost.css('width', costumizedWidth)
     }
     else if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1 ){
       // Set the width css
