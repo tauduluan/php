@@ -45,37 +45,20 @@
       </div>
       <hr>
       <div class="row">
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
       </div><br><br>
       <div class="row">
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
       </div><br><br>
       <div class="row">
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
-        <div class="col-md-3 col-xs-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded" />
-        </div>
+      </div><br><br>
       </div>
       <!-- <div class="col-md-8">
         <?php include 'comment.php'; ?>
