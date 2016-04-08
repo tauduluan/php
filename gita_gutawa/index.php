@@ -106,4 +106,6 @@
     <script src="../js/flat-ui.min.js"></script>
     <!-- Responsive -->
     <script src="../js/responsive.js" charset="utf-8"></script>
+    <!-- Costum -->
+    <script src="../js/main.js" charset="utf-8"></script>
 </html>
