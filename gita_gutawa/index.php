@@ -33,7 +33,7 @@
   <div class="container">
       <div class="artis row">
         <div class="col-md-3">
-          <img src="https://placehold.it/250x180?text=Artis" class="img-rounded artis-img"/>
+          <img src="<?php echo $gita_gutawa[2] ?>" class="img-rounded artis-img"/>
         </div>
         <div class="col-md-6">
           <h3><?php echo $gita_gutawa[0]; ?></h3>
