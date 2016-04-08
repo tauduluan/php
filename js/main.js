@@ -46,6 +46,7 @@ function postComment() {
       type: "success"
     })
 
+    location.reload()
     return true;
   }
 }
