@@ -33,7 +33,7 @@
 
     <!-- SweetAlert -->
     <link rel="stylesheet" href="../bower_components/sweetalert/dist/sweetalert.css">
-    <script src="../bower_components/sweetalert/dist/sweetalert-dev.js" charset="utf-8"></script>s
+    <script src="../bower_components/sweetalert/dist/sweetalert-dev.js" charset="utf-8"></script>
     <script src="../bower_components/sweetalert/dist/sweetalert.min.js" charset="utf-8"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
