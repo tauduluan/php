@@ -1,3 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+.headline {
+	font-family: 'Montserrat', sans-serif;
+}
+
 .facebook {
 	background-color: #3b5998;
 	color: #fff;
@@ -27,7 +33,7 @@
 	margin-left: 6px;
 }
 
-.artis-image-post {	
+.artis-image-post {
 	margin-bottom: 10px;
 }
 
