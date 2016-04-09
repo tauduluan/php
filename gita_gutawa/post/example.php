@@ -50,7 +50,7 @@
           <img src="https://placehold.it/250x180?text=Artis" class="img-rounded artis-img"/>
         </div>
         <div class="col-md-6">
-          <h3><?php echo $artis[0]; ?></h3>
+          <h3><?php echo $gita_gutawa[0]; ?></h3>
           <h4 class="artis-desc">Penyanyi dan Aktor</h4>
         </div>
         <div class="col-md-3">
