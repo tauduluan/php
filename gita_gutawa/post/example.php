@@ -3,6 +3,8 @@
   $post_name = "Judul Artikel";
   $post_desc = "Deskripsi Artikel";
   $post_url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+  $post_1 = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut';
+  $post_2 = 'Esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit anim id est laborum.';
  ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -60,13 +62,13 @@
       <hr>
       <div class="post">
         <h3><?php echo $post_name; ?></h3>
-        <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+        <h6>
+          <?php echo $post_1 ?>
           <br><br>
           <img src="http://placehold.it/150x150?text=Caption" /><br><br>
           <span class="image-caption">Caption</span>
           <br><br>
-          Esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-          in culpa qui officia deserunt mollit anim id est laborum.
+          <?php echo $post_2 ?>
       </div>
       <div class="col-md-8">
         <?php include '../../src/comment.php'; ?>
