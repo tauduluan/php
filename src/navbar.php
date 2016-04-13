@@ -1,7 +1,9 @@
 <?php
-  function navigation($link, $title){    
+  function navigation($link, $title){
+    // Fetch the text
     $text = "<li><a href=\"" . $link . "\">" . $title . "</a></li>";
 
+    // Return the text
     echo $text;
   }
  ?>
