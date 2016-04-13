@@ -1,10 +1,8 @@
 <?php
-  function navigation($link, $title){
-    echo "<li><a href=\"../../";
-    echo $link;
-    echo "\">";
-    echo $title;
-    echo "</a></li>";
+  function navigation($link, $title){    
+    $text = "<li><a href=\"" . $link . "\">" . $title . "</a></li>";
+
+    echo $text;
   }
  ?>
 <nav class="navbar navbar-default" role="navigation">
