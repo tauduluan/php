@@ -24,7 +24,7 @@
         navigation('artis', 'Artis');
         navigation('hotnews', 'Hotnews');
         navigation('populer', 'Populer');
-        navigation('wawancara', 'Wawancara')
+        navigation('wawancara', 'Wawancara');
       ?>
     </ul>
   </div>
