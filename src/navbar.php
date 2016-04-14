@@ -1,7 +1,8 @@
 <?php
+  $url = "https://tau-duluan.herokuapp.com/";
   function navigation($link, $title){
+    global $url;
     // Fetch the text
-    $url = "https://tau-duluan.herokuapp.com/";
     $text = "<li><a href=\"" . $url . $link . "\">" . $title . "</a></li>";
 
     // Return the text
@@ -13,7 +14,7 @@
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
       <span class="sr-only">Toggle navigation</span>
     </button>
-    <a class="navbar-brand" href="https://tau-duluan.herokuapp.com">TauDuluan</a>
+    <a class="navbar-brand" href="<?php echo $url ?>">TauDuluan</a>
   </div>
   <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav">
