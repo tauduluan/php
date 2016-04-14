@@ -5,14 +5,14 @@
     <?php include 'src/meta.php'; ?>
     <title>TauDuluan</title>
 
-    <!-- Loading Bootstrap -->
+    <!-- CSS -->
     <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Loading Flat UI -->
     <link href="css/flat-ui.min.css" rel="stylesheet">
 
-    <!-- Costum CSS -->
+    <!-- Costum -->
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/main.js" charset="utf-8"></script>
+
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.js"></script>
@@ -45,13 +45,10 @@
         </div>
         <?php include 'src/footer.php'; ?>
     </div>
-    <!-- /.container -->
 
-    <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
+    <!-- JS -->
     <script src="js/vendor/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/flat-ui.min.js"></script>
     <script src="js/responsive.js" charset="utf-8"></script>
-    <script src="js/main.js" charset="utf-8"></script>
   </body>
 </html>

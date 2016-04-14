@@ -4,14 +4,13 @@
     <?php include 'meta.php'; ?>
     <title>TauDuluan</title>
 
-    <!-- Loading Bootstrap -->
+    <!-- CSS -->
     <link href="../css/vendor/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Loading Flat UI -->
     <link href="../css/flat-ui.min.css" rel="stylesheet">
 
     <!-- Costum CSS -->
     <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/flat-ui.min.js"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
@@ -32,13 +31,10 @@
           </div>
         </div>
         <?php include 'footer.php'; ?>
-    </div>
-    <!-- /.container -->
+    </div>    
 
-    <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
+    <!-- JS -->
     <script src="../js/vendor/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->    
-    <script src="../js/flat-ui.min.js"></script>
 
   </body>
 </html>
