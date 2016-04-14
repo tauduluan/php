@@ -30,6 +30,38 @@
             Deskripsi post
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">2. Judul post</h3>
+          </div>
+          <div class="panel-body">
+            Deskripsi post
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">3. Judul post</h3>
+          </div>
+          <div class="panel-body">
+            Deskripsi post
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">4. Judul post</h3>
+          </div>
+          <div class="panel-body">
+            Deskripsi post
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">5. Judul post</h3>
+          </div>
+          <div class="panel-body">
+            Deskripsi post
+          </div>
+        </div>
       <?php include '../src/footer.php'; ?>
     </div>
 
