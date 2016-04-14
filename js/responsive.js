@@ -4,7 +4,7 @@ $(document).ready(function (){
         height = $(window).height(),
     // Minimized the width
         costumizedWidth = width - 30,
-        minimizedHeight = height -  200,
+        minimizedHeight = height -  300,
     // Get image by their class
         image = $('.artis-img'),
         headline = $('.headline-img'),
