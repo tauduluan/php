@@ -65,8 +65,10 @@
         <h6>
           <?php echo $post_1 ?>
           <br><br>
-          <img src="http://placehold.it/150x150?text=Caption" /><br><br>
-          <span class="image-caption">Caption</span>
+          <center>
+            <img src="http://placehold.it/150x150?text=Caption" class="img-rounded"/><br><br>
+            <span class="image-caption">Caption</span>
+          </center>
           <br><br>
           <?php echo $post_2 ?>
       </div>
