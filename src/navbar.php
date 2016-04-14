@@ -1,6 +1,7 @@
 <?php
   $url = "https://tau-duluan.herokuapp.com/";
   function navigation($link, $title){
+    // Global url variable
     global $url;
     // Fetch the text
     $text = "<li><a href=\"" . $url . $link . "\">" . $title . "</a></li>";
