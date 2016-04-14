@@ -22,44 +22,45 @@
   <body>
     <?php include '../src/navbar.php'; ?>
     <div class="container">
+        <?php include '../src/trending.php' ?>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">1. Judul post</h3>
+            <h3 class="panel-title"><?php echo $title[0] ?></h3>
           </div>
           <div class="panel-body">
-            Deskripsi post
+            <?php echo $desc[0]; ?>
           </div>
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">2. Judul post</h3>
+            <h3 class="panel-title"><?php echo $title[1] ?></h3>
           </div>
           <div class="panel-body">
-            Deskripsi post
+            <?php echo $desc[1] ?>
           </div>
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">3. Judul post</h3>
+            <h3 class="panel-title"><?php echo $title[2] ?></h3>
           </div>
           <div class="panel-body">
-            Deskripsi post
+            <?php echo $desc[2] ?>
           </div>
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">4. Judul post</h3>
+            <h3 class="panel-title"><?php echo $title[3] ?></h3>
           </div>
           <div class="panel-body">
-            Deskripsi post
+            <?php echo $desc[3] ?>
           </div>
         </div>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">5. Judul post</h3>
+            <h3 class="panel-title"><?php echo $title[4] ?></h3>
           </div>
           <div class="panel-body">
-            Deskripsi post
+            <?php echo $desc[4] ?>
           </div>
         </div>
       <?php include '../src/footer.php'; ?>
