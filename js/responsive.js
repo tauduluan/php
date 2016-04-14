@@ -8,9 +8,9 @@ $(document).ready(function (){
     // Get image by their class
         image = $('.artis-img'),
         headline = $('.headline-img'),
-        ads = $('.ads');
-        artisAds = $('.artis-ads')
-        imagePost = $('.artis-image-post')
+        ads = $('.ads'),
+        artisAds = $('.artis-ads'),
+        imagePost = $('.artis-image-post');
 
     if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
       // Set the width css
