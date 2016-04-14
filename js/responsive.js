@@ -26,5 +26,8 @@ $(document).ready(function (){
       image.css('width', costumizedWidth);
       headline.css('width', costumizedWidth);
       ads.css('width', costumizedWidth);
+      artisAds.css('height', minimizedHeight);
+      artisAds.css('width', costumizedWidth);
+      imagePost.css('width', costumizedWidth)
     }
 });
