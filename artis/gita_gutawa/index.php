@@ -48,51 +48,51 @@
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
-          </div>
-      </div><br><br>
-      <div class="row">
-          <div class="col-md-4">
-          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
-          <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
-          </div>
-          <div class="col-md-4">
-          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
-          <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
-          </div>
-          <div class="col-md-4">
-          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
-          <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
       </div><br><br>
       <div class="row">
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
           <div class="col-md-4">
           <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
           <figcaption class="image-caption">Caption</figcaption>
-          <button class="btn btn-info" onclick="readPost('example')">Read</button>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
+          </div>
+      </div><br><br>
+      <div class="row">
+          <div class="col-md-4">
+          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <figcaption class="image-caption">Caption</figcaption>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
+          </div>
+          <div class="col-md-4">
+          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <figcaption class="image-caption">Caption</figcaption>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
+          </div>
+          <div class="col-md-4">
+          <img src="https://placehold.it/200x200?text=Image" class="img-rounded artis-image-post" />
+          <figcaption class="image-caption">Caption</figcaption>
+          <button class="btn btn-info btn-embossed" onclick="readPost('example')">Read</button>
           </div>
       </div>
       <?php include '../../src/footer.php' ?>
