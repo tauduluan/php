@@ -18,11 +18,13 @@
   </div>
   <div class="collapse navbar-collapse" id="navbar">
     <ul class="nav navbar-nav">
-      <?php navigation('trending', 'Trending') ?>
-      <?php navigation('artis', 'Artis') ?>
-      <?php navigation('hotnews', 'Hotnews') ?>
-      <?php navigation('populer', 'Populer') ?>
-      <?php navigation('wawancara', 'Wawancara') ?>
+      <?php
+        navigation('trending', 'Trending');
+        navigation('artis', 'Artis');
+        navigation('hotnews', 'Hotnews');
+        navigation('populer', 'Populer');
+        navigation('wawancara', 'Wawancara')
+      ?>
     </ul>
   </div>
 </nav>
