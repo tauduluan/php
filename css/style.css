@@ -37,9 +37,13 @@
 	margin-bottom: 10px;
 }
 
+.artis-post {
+	margin-bottom: 15px;
+}
+
 .image-caption {
 	color: #90A4AE;
-	font-size: 25px;	
+	font-size: 25px;
 	font-style: italic;
 }
 
