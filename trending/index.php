@@ -22,6 +22,15 @@
   <body>
     <?php include '../src/navbar.php'; ?>
     <div class="container">
+      <div class="row" align="center">
+        <div class="col-md-12">
+          <img src="https://placehold.it/300x150"/>
+          <div class="text">
+            <h4>Judul Post</h4>
+            <h6>Deskripsi Post</h6>
+          </div>
+        </div>
+      </div>
       <?php include '../src/footer.php'; ?>
     </div>
 
