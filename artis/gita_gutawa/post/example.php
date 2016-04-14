@@ -66,7 +66,7 @@
           <?php echo $post_1 ?>
           <br><br>
           <center>
-            <img src="http://placehold.it/150x150?text=Caption" class="img-rounded"/><br><br>
+            <img src="http://placehold.it/300x150?text=Caption" class="img-rounded"/><br><br>
             <span class="image-caption">Caption</span>
           </center>
           <br><br>
