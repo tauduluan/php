@@ -56,5 +56,5 @@ function readPost(title, username) {
 }
 
 function viewArtis(username) {
-  window.location.href = 'artis/' + username + '/' + 'index.php'
+  window.location.href = 'artis/' + username + '/'
 }
