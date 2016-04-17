@@ -51,8 +51,8 @@ function postComment() {
   }
 }
 
-function readPost(title) {
-  window.location.href = 'post/' + title + '.php';
+function readPost(title, username) {
+  window.location.href = username + 'post/' + title + '.php';
 }
 
 function viewArtis(username) {
