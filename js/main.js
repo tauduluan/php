@@ -52,7 +52,7 @@ function postComment() {
 }
 
 function readPost(title) {
-  window.location.href = '/post/' + title;
+  window.location.href = 'post/' + title;
 }
 
 function viewArtis(username) {
