@@ -12,7 +12,7 @@
 .facebook {
 	background-color: #3b5998;
 	color: #fff;
-	text-transform: uppercase;
+	text-transform: none;
 	width: 295px;
 }
 
@@ -20,7 +20,7 @@
 	margin-top: 5px;
 	background-color: #55acee;
 	color: #fff;
-	text-transform: uppercase;
+	text-transform: none;
 	width: 295px;
 }
 
