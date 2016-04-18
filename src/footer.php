@@ -1,12 +1,15 @@
 <br><br><br><br><br>
 <footer>
       <div class="pull-left">
-        Copyright &copy; TauDuluan.id 2016
+        <h4>TauDuluan.id</h4>
       </div>
       <div class="pull-right">
-        <a href="">About</a> |
-        <a href="">Advertise</a> |
-        <a href="">Contact</a> |
-        <a href="">FAQ</a>
+        <a href="">Hot News</a> |
+        <a href="">Now Playing</a> |
+        <a href="">Artis</a> |
+        <a href="">Wawancara</a>
+        <hr>
+        <a href="">Tentang Kami</a> |
+        <a href="">Kontak</a>
       </div>
   </footer>
