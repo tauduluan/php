@@ -1,9 +1,15 @@
+<?php
+// Headline config
+$title = 'Headline Tauduluan';
+$gambar = 'https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0';
+$desc = 'Lorem ipsum dolor sit amet.';
+ ?>
 <div class="row">
   <div class="headline col-md-8">
-    <img src="https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0" alt="" class="headline-img"/>
-    <h2 class="headline-title">Headline TauDuluan</h2>
+    <img src="<?php echo $gambar ?>" alt="" class="headline-img"/>
+    <h2 class="headline-title"><?php echo $title ?></h2>
     <h6>
-      Lorem ipsum dolor sit amet.
+      <?php echo $desc ?>
     </h6>
   </div>
   <div class="col-md-4">
