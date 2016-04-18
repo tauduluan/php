@@ -39,11 +39,47 @@
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
+          <div class="col-md-4">
+            <h3>Foto Artis</h3>
+            <div class="row">
+              <div class="col-md-7">
+                <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+              </div>
+              <div class="col-md-5">
+                <h4>Title</h4>
+                <p>
+                  Deskripsi
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+          </div>
+          <div class="col-md-4 ajr">
+            <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
+            <h3><?php echo $artis[0] ?></h3>
+            <h6><?php echo $artis[1] ?></h6>
+            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+          </div>
+          <div class="col-md-4">
+            <h3>Now Playing</h3>
+            <div class="row">
+              <div class="col-md-7">
+                <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+              </div>
+              <div class="col-md-5">
+                <h4>Title</h4>
+                <p>
+                  Deskripsi
+                </p>
+              </div>
+            </div>
           </div>
         </div>
         <?php include 'src/footer.php'; ?>
