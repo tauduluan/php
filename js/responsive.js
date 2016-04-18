@@ -3,7 +3,7 @@ $(document).ready(function (){
     var width = $(window).width(),
         height = $(window).height(),
     // Minimized the width
-        costumizedWidth = width - 30,
+        costumizedWidth = width - 32,
         minimizedHeight = height -  300,
     // Get image by their class
         image = $('.artis-img'),
