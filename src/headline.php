@@ -63,7 +63,7 @@ $date = '2016-4-8';
   <div class="col-md-4">
   <!-- <h3>Ads</h3> -->
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6"><br>
       <img src="https://placehold.it/200x200/1abc9c/bdc3c7?text=Ads" alt="Ads" class="ads"><br><br>
     </div>
     <!-- <div class="col-md-6">
