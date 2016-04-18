@@ -1,4 +1,3 @@
-<br><br><br><br><br>
 <footer>
       <div class="pull-left">
         <h4>TauDuluan.id</h4>
