@@ -34,10 +34,10 @@ $date = '2016-4-8';
      </div>
 
      <!-- Left and right controls -->
-     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">       
+     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
        <span class="sr-only">Previous</span>
      </a>
-     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">       
+     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
        <span class="sr-only">Next</span>
      </a>
    </div>
@@ -59,27 +59,11 @@ $date = '2016-4-8';
     </div>
   </div>
   <div class="col-md-4">
-  <!-- <h3>Ads</h3> -->
+  <!-- YOUR ADS HERE -->
   <div class="row">
     <div class="col-md-6"><br>
       <img src="https://placehold.it/200x200/1abc9c/bdc3c7?text=Ads" alt="Ads" class="ads"><br><br>
     </div>
-    <!-- <div class="col-md-6">
-      <img src="https://placehold.it/200x200?text=Ads" alt="Ads" class="ads"><br><br>
-    </div><br>
-    <div class="col-md-6">
-      <img src="https://placehold.it/200x200/1abc9c/bdc3c7?text=Ads" alt="Ads" class="ads"><br><br>
-    </div>
-    <div class="col-md-6">
-      <img src="https://placehold.it/200x200?text=Ads" alt="Ads" class="ads"><br><br>
-    </div><br>
-    <div class="col-md-6">
-      <img src="https://placehold.it/200x200/1abc9c/bdc3c7?text=Ads" alt="Ads" class="ads"><br><br>
-    </div>
-    <div class="col-md-6">
-      <img src="https://placehold.it/200x200?text=Ads" alt="Ads" class="ads"><br><br>
-    </div> -->
   </div>
-  <!-- YOUR ADS HERE -->
 </div>
 </div>
