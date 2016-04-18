@@ -13,9 +13,14 @@ $date = '2016-4-8';
     <h6>
       <?php echo $desc ?>
     </h6>
-    <br><br>
-    <button class="btn facebook"><i class="fa fa-facebook"></i> Like on Facebook</button>
-    <button class="btn twitter"><i class="fa fa-twitter"></i> Follow on Twitter</button>
+    <div class="row">
+      <div class="col-md-6">
+        <button class="btn facebook btn-hg"><i class="fa fa-facebook"></i> Like on Facebook</button>
+      </div>
+      <div class="col-md-6">
+        <button class="btn twitter btn-hg"><i class="fa fa-twitter"></i> Follow on Twitter</button>
+      </div>
+    </div>
   </div>
   <div class="col-md-4">
   <!-- <h3>Ads</h3> -->
