@@ -54,7 +54,7 @@ $date = '2016-4-8';
     <div class="row">
       <div class="col-md-6">
         <button class="btn facebook btn-hg"><i class="fa fa-facebook"></i> Like on Facebook</button>
-      </div><br>
+      </div>
       <div class="col-md-6">
         <button class="btn twitter btn-hg"><i class="fa fa-twitter"></i> Follow on Twitter</button>
       </div><br>
