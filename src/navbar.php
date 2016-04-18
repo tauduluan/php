@@ -10,7 +10,7 @@
     echo $text;
   }
  ?>
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default navbar-embossed" role="navigation">
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
       <span class="sr-only">Toggle navigation</span>
