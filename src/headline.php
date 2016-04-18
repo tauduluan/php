@@ -3,11 +3,13 @@
 $title = 'Headline Tauduluan';
 $gambar = 'https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0';
 $desc = 'Lorem ipsum dolor sit amet.';
+$date = '2016-4-8';
  ?>
 <div class="row">
   <div class="headline col-md-8">
     <img src="<?php echo $gambar ?>" alt="" class="headline-img"/>
     <h2 class="headline-title"><?php echo $title ?></h2>
+    <h4 class="headline-date"><?php echo $date; ?></h4>
     <h6>
       <?php echo $desc ?>
     </h6>

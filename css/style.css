@@ -4,6 +4,11 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+.headline-date {
+	color: #90A4AE;
+	font-weight: lighter;
+}
+
 .facebook {
 	background-color: #3b5998;
 	color: #fff;
