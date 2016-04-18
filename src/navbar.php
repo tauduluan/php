@@ -25,6 +25,7 @@
         navigation('hotnews', 'Hotnews');
         navigation('populer', 'Populer');
         navigation('wawancara', 'Wawancara');
+        navigation('meme', 'Meme');
       ?>
     </ul>
   </div>
