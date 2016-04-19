@@ -37,7 +37,7 @@
         </div>
         <div class="col-md-6">
           <h3><?php echo $gita_gutawa[0]; ?></h3>
-          <h4 class="artis-desc">Penyanyi dan Aktor</h4>
+          <h4 class="artis-desc"><?php echo $gita_gutawa[3] ?></h4>
         </div>
         <div class="col-md-3 col-xs-12">
           <img src="<?php echo $gita_gutawa[3] ?>" class="img-rounded artis-ads" />

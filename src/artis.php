@@ -1,6 +1,6 @@
 <?php
   $artis = array('Artis', 'Lorem ipsum dolor sit amet.', 'http://placehold.it/300x150?text=Artis');
-  $gita_gutawa = array('Gita Gutawa', 'Lorem ipsum dolor sit amet.', 'http://placehold.it/270x150?text=Gita+Gutawa', 'https://placehold.it/200x150?text=Ads');
+  $gita_gutawa = array('Gita Gutawa', 'Lorem ipsum dolor sit amet.', 'http://placehold.it/270x150?text=Gita+Gutawa', 'Penyanyi dan Aktor','https://placehold.it/200x150?text=Ads');
  ?>
 
 <!--
