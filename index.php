@@ -15,7 +15,7 @@
 
     <!-- Font-Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    
+
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.js"></script>
@@ -48,9 +48,9 @@
               </div>
               <div class="col-md-5">
                 <h4>Title</h4>
-                <p>
+                <h6>
                   Deskripsi
-                </p>
+                </h6>
               </div>
             </div>
           </div>
@@ -76,9 +76,9 @@
               </div>
               <div class="col-md-5">
                 <h4>Title</h4>
-                <p>
+                <h6>
                   Deskripsi
-                </p>
+                </h6>
               </div>
             </div>
           </div>
