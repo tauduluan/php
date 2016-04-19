@@ -22,7 +22,6 @@
   <body>
     <?php include '../src/navbar.php'; ?>
     <div class="container">
-        <?php include '../src/headline.php' ?>
         <div class="row">
           <div class="col-md-4 ajr">
             <img src="<?php echo $gita_gutawa[2] ?>" alt="" class="artis-img"/>
