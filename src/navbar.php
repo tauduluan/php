@@ -23,7 +23,6 @@
         navigation('trending', 'Trending');
         navigation('artis', 'Artis');
         navigation('hotnews', 'Hotnews');
-        navigation('populer', 'Populer');
         navigation('wawancara', 'Wawancara');
         navigation('meme', 'Meme');
       ?>
