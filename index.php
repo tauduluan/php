@@ -40,7 +40,7 @@
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 ajr">
             <h3>Foto Artis</h3>
             <div class="row">
               <div class="col-md-7">
@@ -68,7 +68,7 @@
             <h6><?php echo $artis[1] ?></h6>
             <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 ajr">
             <h3>Now Playing</h3>
             <div class="row">
               <div class="col-md-7">
