@@ -33,13 +33,13 @@
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('artis')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('artis')">Read More</button>
           </div>
         </div>
         <div class="row">
@@ -47,19 +47,19 @@
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('artis')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('artis')">Read More</button>
           </div>
           <div class="col-md-4 ajr">
             <img src="<?php echo $artis[2] ?>" alt="" class="artis-img"/>
             <h3><?php echo $artis[0] ?></h3>
             <h6><?php echo $artis[1] ?></h6>
-            <button class="btn btn-primary" onclick="readPost('sample-post')">Read More</button>
+            <button class="btn btn-primary" onclick="viewArtis('artis')">Read More</button>
           </div>
         </div>
         <?php include '../src/footer.php'; ?>
