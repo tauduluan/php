@@ -49,7 +49,7 @@
               <span class="badge">Kategori</span>
               <div class="row">
                 <div class="col-md-4">
-                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
+                  <img src="https://placehold.it/120x90?text=Foto+Artis" alt="Foto Artis" />
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
@@ -63,7 +63,7 @@
               <span class="badge">Kategori</span>
               <div class="row">
                 <div class="col-md-4">
-                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
+                  <img src="https://placehold.it/120x90?text=Foto+Artis" alt="Foto Artis" />
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
@@ -77,7 +77,7 @@
               <span class="badge">Kategori</span>
               <div class="row">
                 <div class="col-md-4">
-                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
+                  <img src="https://placehold.it/120x90?text=Foto+Artis" alt="Foto Artis" />
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
