@@ -24,6 +24,15 @@
 	width: 295px;
 }
 
+.badge {
+	font-size: 11px;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 0;
+	padding: 2px 8px;
+	background-color: #e74c3c;
+}
+
 .videos {
 	margin-top: 30px;
 }
