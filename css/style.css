@@ -9,6 +9,10 @@
 	font-weight: lighter;
 }
 
+.headline-desc {
+	font-weight: 300;
+}
+
 .facebook {
 	background-color: #3b5998;
 	color: #fff;
