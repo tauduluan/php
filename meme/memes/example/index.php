@@ -28,16 +28,12 @@
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
-        <div class="pagination pagination-success text-center">
-          <a href="javascript:memeNav(2)" class="btn btn-success previous">Previous</a>
-
+        <div class="pagination pagination-success text-center">          
           <ul>
             <li><a href="javascript:memeNav(1)">1</a></li>
             <li><a href="javascript:memeNav(2)">2</a></li>
             <li><a href="javascript:memeNav(3)">3</a></li>
           </ul>
-
-          <a href="javascript:memeNav(3)" class="btn btn-success next">Next</a>
         </div>
       </center>
         <?php include '../../../src/footer.php'; ?>
