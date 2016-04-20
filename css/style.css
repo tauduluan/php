@@ -60,6 +60,8 @@
     margin: auto;
 }
 
+.meme-desc { font-weight: 300 }
+.meme-img { margin-bottom: 20px }
 .ajr {
 	margin-bottom: 15px;
 	margin-top: 15px;

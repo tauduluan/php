@@ -37,19 +37,19 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="http://www.w3schools.com/bootstrap/img_chania.jpg" alt="Chania" width="460" height="345">
+                <img src="http://www.w3schools.com/bootstrap/img_chania.jpg" alt="Chania" width="300" height="150">
               </div>
 
               <div class="item">
-                <img src="http://www.w3schools.com/bootstrap/img_chania2.jpg" alt="Chania" width="460" height="345">
+                <img src="http://www.w3schools.com/bootstrap/img_chania2.jpg" alt="Chania" width="300" height="150">
               </div>
 
               <div class="item">
-                <img src="http://www.w3schools.com/bootstrap/img_flower.jpg" alt="Flower" width="460" height="345">
+                <img src="http://www.w3schools.com/bootstrap/img_flower.jpg" alt="Flower" width="300" height="150">
               </div>
 
               <div class="item">
-                <img src="http://www.w3schools.com/bootstrap/img_flower2.jpg" alt="Flower" width="460" height="345">
+                <img src="http://www.w3schools.com/bootstrap/img_flower2.jpg" alt="Flower" width="300" height="150">
               </div>
             </div>
 

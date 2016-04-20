@@ -22,7 +22,24 @@
   <body>
     <?php include '../../../src/navbar.php'; ?>
     <div class="container">
-        
+      <center>
+        <img src="https://placehold.it/600x300" alt="" class="meme meme-img"/>
+        <p class="meme-desc text-left">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        <div class="pagination pagination-success text-center">
+          <a href="#" class="btn btn-success previous">Previous</a>
+
+          <ul>
+            <li><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><a href="#">3</a></li>
+          </ul>
+
+          <a href="#" class="btn btn-success next">Next</a>
+        </div>
+      </center>
         <?php include '../../../src/footer.php'; ?>
     </div>
 
