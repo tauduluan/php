@@ -52,9 +52,11 @@ function postComment() {
 }
 
 function readPost(title) {
-  window.location.href = 'post/' + title + '.php';
+  var url = 'post/' + title + '.php';
+  window.location.href = url;
 }
 
 function viewArtis(username) {
-  window.location.href = 'artis/' + username + '/'
+  var url = 'artis/' + username + '/';
+  window.location.href = url;
 }
