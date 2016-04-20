@@ -23,19 +23,19 @@
     <?php include '../src/navbar.php'; ?>
     <div class="container">
           <div class="col-md-7">
-            <img src="https://placehold.it/600x550?text=The Hottest News" alt="The Hottest News" />
+            <img src="https://placehold.it/600x550?text=The Hottest News" alt="The Hottest News" class="hottest"/>
             <h2>The Hottest News</h2>
             <button class="btn btn-primary">Read More</button>
           </div>
           <div class="row">
             <div class="col-md-5">
-              <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" />
+              <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" class="secondhot"/>
               <h2>Second Hot News</h2>
               <button class="btn btn-primary">Read More</button>
             </div>
             <div class="col-md-5">
               <br>
-              <img src="https://placehold.it/400x200?text=Third+Hot+News" alt="Third Hot News" />
+              <img src="https://placehold.it/400x200?text=Third+Hot+News" alt="Third Hot News" class="thirdhot"/>
               <h2>Triple Hot News</h2>
               <button class="btn btn-primary">Read More</button>
             </div>
