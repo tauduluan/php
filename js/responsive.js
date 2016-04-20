@@ -15,7 +15,7 @@ $(document).ready(function (){
 
     if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
       // Set the width css
-      image.css('width', costumizedWidth);
+      image.css('width', width - 35);
       headline.css('width', costumizedWidth);
       ads.css('width', costumizedWidth);
       artisAds.css('height', minimizedHeight);
