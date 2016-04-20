@@ -22,62 +22,7 @@
   <body>
     <?php include '../../../src/navbar.php'; ?>
     <div class="container">
-          <div class="row">
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-          </div>
-          <hr>
-          <div class="row">
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-          </div>
-          <hr>
-          <div class="row">
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-3 meme-div" align="center">
-              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-          </div>
+        
         <?php include '../../../src/footer.php'; ?>
     </div>
 
