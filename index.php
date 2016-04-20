@@ -25,7 +25,6 @@
   <body>
     <?php include 'src/navbar.php'; ?>
     <div class="container">
-        <?php include 'src/headline.php' ?>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -62,6 +61,7 @@
               <span class="sr-only">Next</span>
             </a>
           </div>
+          <?php include 'src/headline.php' ?>
         <hr>
         <div class="row">
           <div class="col-md-4 ajr">
