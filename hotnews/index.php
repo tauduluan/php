@@ -43,6 +43,51 @@
               <button class="btn btn-primary">Read More</button>
             </div>
           </div>
+          <div class="row">
+            <br><br>
+            <div class="col-md-4">
+              <span class="badge">Kategori</span>
+              <div class="row">
+                <div class="col-md-7">
+                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                </div>
+                <div class="col-md-5">
+                  <h4>Title</h4>
+                  <p class="date">
+                    20 Apr 2016
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <span class="badge">Kategori</span>
+              <div class="row">
+                <div class="col-md-7">
+                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                </div>
+                <div class="col-md-5">
+                  <h4>Title</h4>
+                  <p class="date">
+                    20 Apr 2016
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <span class="badge">Kategori</span>
+              <div class="row">
+                <div class="col-md-7">
+                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                </div>
+                <div class="col-md-5">
+                  <h4>Title</h4>
+                  <p class="date">
+                    20 Apr 2016
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
         <?php include '../src/footer.php'; ?>
     </div>
 
