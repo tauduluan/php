@@ -33,13 +33,13 @@
           <div class="row">
             <div class="col-md-5">
               <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" />
-              <h2>The Hottest News</h2>
+              <h2>Second Hot News</h2>
               <button class="btn btn-primary">Read More</button>
             </div>
             <div class="col-md-5">
               <br>
-              <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" />
-              <h2>The Hottest News</h2>
+              <img src="https://placehold.it/400x200?text=Third+Hot+News" alt="Third Hot News" />
+              <h2>Triple Hot News</h2>
               <button class="btn btn-primary">Read More</button>
             </div>
           </div>
