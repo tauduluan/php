@@ -25,7 +25,11 @@
   <body>
     <?php include '../src/navbar.php'; ?>
     <div class="container">
-          
+          <div class="col-md-8">
+            <img src="https://placehold.it/500x300?text=The Hottest News" alt="The Hottest News" />
+            <h2>The Hottest News</h2>
+            <button class="btn btn-primary">Read More</button>
+          </div>
         <?php include '../src/footer.php'; ?>
     </div>
 
