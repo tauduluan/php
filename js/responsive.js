@@ -14,6 +14,7 @@ $(document).ready(function (){
         hottest = $('.hottest'),
         secondHottest = $('.secondhot'),
         thirdHottest = $('.thirdhot'),
+        meme = $('.meme'),
         tristan = $('.tristan');
 
     if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
@@ -27,6 +28,7 @@ $(document).ready(function (){
       hottest.css('width', width - 57);
       secondHottest.css('width', costumizedWidth);
       thirdHottest.css('width', costumizedWidth);
+      meme.css('width', costumizedWidth);
       tristan.css('width', costumizedWidth);
     }
     else if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1 ){
@@ -40,6 +42,7 @@ $(document).ready(function (){
       hottest.css('width', width - 57);
       secondHottest.css('width', costumizedWidth);
       thirdHottest.css('width', costumizedWidth);
+      meme.css('width', costumizedWidth);
       tristan.css('width', costumizedWidth);
     }
 });
