@@ -29,15 +29,15 @@
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         <div class="pagination pagination-success text-center">
-          <a href="#" class="btn btn-success previous">Previous</a>
+          <a href="javascript:memeNav(2)" class="btn btn-success previous">Previous</a>
 
           <ul>
-            <li><a href="#">1</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
+            <li><a href="javascript:memeNav(1)">1</a></li>
+            <li><a href="javascript:memeNav(2)">2</a></li>
+            <li><a href="javascript:memeNav(3)">3</a></li>
           </ul>
 
-          <a href="#" class="btn btn-success next">Next</a>
+          <a href="javascript:memeNav(3)" class="btn btn-success next">Next</a>
         </div>
       </center>
         <?php include '../../../src/footer.php'; ?>
@@ -47,5 +47,6 @@
     <script src="../../../js/vendor/jquery.min.js"></script>
     <script src="../../../js/flat-ui.min.js"></script>
     <script src="../../../js/responsive.js" charset="utf-8"></script>
+    <script src="../../../js/main.js" charset="utf-8"></script>
   </body>
 </html>
