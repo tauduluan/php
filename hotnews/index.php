@@ -25,10 +25,23 @@
   <body>
     <?php include '../src/navbar.php'; ?>
     <div class="container">
-          <div class="col-md-8">
-            <img src="https://placehold.it/500x300?text=The Hottest News" alt="The Hottest News" />
+          <div class="col-md-7">
+            <img src="https://placehold.it/600x550?text=The Hottest News" alt="The Hottest News" />
             <h2>The Hottest News</h2>
             <button class="btn btn-primary">Read More</button>
+          </div>
+          <div class="row">
+            <div class="col-md-5">
+              <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" />
+              <h2>The Hottest News</h2>
+              <button class="btn btn-primary">Read More</button>
+            </div>
+            <div class="col-md-5">
+              <br>
+              <img src="https://placehold.it/400x200?text=Second+Hot+News" alt="Second Hot News" />
+              <h2>The Hottest News</h2>
+              <button class="btn btn-primary">Read More</button>
+            </div>
           </div>
         <?php include '../src/footer.php'; ?>
     </div>
