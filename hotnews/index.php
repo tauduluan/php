@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
-                  <p class="date">
+                  <p class="headline-date">
                     20 Apr 2016
                   </p>
                 </div>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
-                  <p class="date">
+                  <p class="headline-date">
                     20 Apr 2016
                   </p>
                 </div>
@@ -81,7 +81,7 @@
                 </div>
                 <div class="col-md-8">
                   <h4>Title</h4>
-                  <p class="date">
+                  <p class="headline-date">
                     20 Apr 2016
                   </p>
                 </div>
