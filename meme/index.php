@@ -24,55 +24,55 @@
     <div class="container">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
-              <button class="btn btn-warning">Read</button>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
-              <button class="btn btn-warning">Read</button>
-            </div>
-            <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
-              <button class="btn btn-warning">Read</button>
-            </div>
-            <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
-              <button class="btn btn-warning">Read</button>
-            </div>
-            <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
           </div>
           <div class="row">
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
             <div class="col-md-3">
-              <img src="https://placehold.it/150x150" alt="Meme" /><br>
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
+              <button class="btn btn-warning">Read</button>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3">
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
+              <button class="btn btn-warning">Read</button>
+            </div>
+            <div class="col-md-3">
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
+              <button class="btn btn-warning">Read</button>
+            </div>
+            <div class="col-md-3">
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
+              <button class="btn btn-warning">Read</button>
+            </div>
+            <div class="col-md-3">
+              <img src="https://placehold.it/150x150" alt="Meme" class="meme"/><br>
               <button class="btn btn-warning">Read</button>
             </div>
           </div>
