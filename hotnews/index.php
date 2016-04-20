@@ -48,10 +48,10 @@
             <div class="col-md-4">
               <span class="badge">Kategori</span>
               <div class="row">
-                <div class="col-md-7">
-                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                <div class="col-md-4">
+                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-8">
                   <h4>Title</h4>
                   <p class="date">
                     20 Apr 2016
@@ -62,10 +62,10 @@
             <div class="col-md-4">
               <span class="badge">Kategori</span>
               <div class="row">
-                <div class="col-md-7">
-                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                <div class="col-md-4">
+                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-8">
                   <h4>Title</h4>
                   <p class="date">
                     20 Apr 2016
@@ -76,10 +76,10 @@
             <div class="col-md-4">
               <span class="badge">Kategori</span>
               <div class="row">
-                <div class="col-md-7">
-                  <img src="https://placehold.it/200x200?text=Foto+Artis" alt="Foto Artis" />
+                <div class="col-md-4">
+                  <img src="https://placehold.it/120x82?text=Foto+Artis" alt="Foto Artis" />
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-8">
                   <h4>Title</h4>
                   <p class="date">
                     20 Apr 2016
