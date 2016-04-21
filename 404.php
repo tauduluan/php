@@ -28,6 +28,7 @@
         <center>
           <h2>404</h2>
           <h6>The page you are looking for does not exist.</h6>
+          <button class="btn btn-primary">Go Home</button>
         </center>
         <?php include 'src/footer.php'; ?>
     </div>
