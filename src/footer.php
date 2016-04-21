@@ -1,6 +1,6 @@
 <footer>
       <div class="pull-left">
-        <h4>TauDuluan.id</h4>
+        <h3>TauDuluan.id</h3>        
       </div>
       <div class="pull-right">
         <a href="">Hot News</a> |
