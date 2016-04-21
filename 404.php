@@ -25,7 +25,10 @@
   <body>
     <?php include 'src/navbar.php'; ?>
     <div class="container">
-        
+        <center>
+          <h2>404</h2>
+          <h6>The page you are looking for does not exist.</h6>
+        </center>
         <?php include 'src/footer.php'; ?>
     </div>
 
