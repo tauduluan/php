@@ -37,7 +37,7 @@
             <li><a href="javascript:memeNav(3)">3</a></li>
           </ul>
 
-          <a href="javascript:memeNav(2)" class="btn btn-success next">Next</a>
+          <a href="javascript:memeNav(3)" class="btn btn-success next">Next</a>
         </div>
       </center>
         <?php include '../../../src/footer.php'; ?>
