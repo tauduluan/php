@@ -26,9 +26,9 @@
     <?php include 'src/navbar.php'; ?>
     <div class="container">
         <center>
-          <h1>404</h1>
-          <h6 class="lead">The page you are looking for does not exist.</h6>
-          <button class="btn btn-primary">Go Home</button>
+          <h1 id="ksi">404</h1>
+          <h6 class="lead" id="coffee">The page you are looking for does not exist.</h6>
+          <button class="btn btn-primary btn-hg">Go Home</button>
         </center>
         <?php include 'src/footer.php'; ?>
     </div>
