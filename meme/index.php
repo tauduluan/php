@@ -84,7 +84,6 @@
     <!-- JS -->
     <script src="../js/vendor/jquery.min.js"></script>
     <script src="../js/flat-ui.min.js"></script>
-    <script src="../js/responsive.js" charset="utf-8"></script>
-    <script src="../js/main.js" charset="utf-8"></script>
+    <script src="../js/responsive.js" charset="utf-8"></script>    
   </body>
 </html>
