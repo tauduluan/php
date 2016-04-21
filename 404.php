@@ -28,7 +28,7 @@
         <center>
           <h1 id="ksi">404</h1>
           <h6 class="lead" id="coffee">The page you are looking for does not exist.</h6>
-          <button class="btn btn-primary btn-hg">Go Home</button>
+          <button class="btn btn-primary btn-hg" onclick="window.location.href = 'https://tau-duluan.herokuapp.com';">Go Home</button>
         </center>
         <?php include 'src/footer.php'; ?>
     </div>
