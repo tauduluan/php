@@ -15,10 +15,10 @@ $date = '2016-4-8';
     </h6>
     <div class="row">
       <div class="col-md-6">
-        <a class="btn facebook btn-hg"><i class="fa fa-facebook"></i> Like on Facebook</a>
+        <a class="btn facebook btn-hg" target="_blank"><i class="fa fa-facebook"></i> Like on Facebook</a>
       </div>
       <div class="col-md-6">
-        <a class="btn twitter btn-hg"><i class="fa fa-twitter"></i> Follow on Twitter</a>
+        <a class="btn twitter btn-hg" target="_blank"><i class="fa fa-twitter"></i> Follow on Twitter</a>
       </div><br>
     </div>
   </div>
