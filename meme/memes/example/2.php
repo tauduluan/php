@@ -6,17 +6,17 @@
     <title>TauDuluan</title>
 
     <!-- CSS -->
-    <link href="https://tau-duluan.herokuapp.com/css/vendor/bootstrap.min.css" rel="stylesheet">
-    <link href="https://tau-duluan.herokuapp.com/css/flat-ui.min.css" rel="stylesheet">
+    <link href="../../../css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../css/flat-ui.min.css" rel="stylesheet">
 
     <!-- Costum -->
-    <link rel="stylesheet" href="https://tau-duluan.herokuapp.com/css/style.css">
-    <script src="https://tau-duluan.herokuapp.com/js/main.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="../../../css/style.css">
+    <script src="../../../js/main.js" charset="utf-8"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
-      <script src="https://tau-duluan.herokuapp.com/js/vendor/html5shiv.js"></script>
-      <script src="https://tau-duluan.herokuapp.com/js/vendor/respond.min.js"></script>
+      <script src="../../../js/vendor/html5shiv.js"></script>
+      <script src="../../../js/vendor/respond.min.js"></script>
     <![endif]-->
   </head>
   <body>
@@ -44,9 +44,9 @@
     </div>
 
     <!-- JS -->
-    <script src="https://tau-duluan.herokuapp.com/js/vendor/jquery.min.js"></script>
-    <script src="https://tau-duluan.herokuapp.com/js/flat-ui.min.js"></script>
-    <script src="https://tau-duluan.herokuapp.com/js/responsive.js" charset="utf-8"></script>
-    <script src="https://tau-duluan.herokuapp.com/js/main.js" charset="utf-8"></script>
+    <script src="../../../js/vendor/jquery.min.js"></script>
+    <script src="../../../js/flat-ui.min.js"></script>
+    <script src="../../../js/responsive.js" charset="utf-8"></script>
+    <script src="../../../js/main.js" charset="utf-8"></script>
   </body>
 </html>
