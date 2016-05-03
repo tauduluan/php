@@ -23,7 +23,16 @@
         navigation('trending', 'Trending');
         navigation('artis', 'Artis');
         navigation('hotnews', 'Hotnews');
-        navigation('wawancara', 'Wawancara');
+      ?>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Interview <b class="caret"></b></a>
+        <span class="dropdown-arrow"></span>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo $url ?>">Live Interview</a></li>
+          <li><a href="<?php echo $url ?>">Live Q&A</a></li>
+        </ul>
+      </li>
+      <?php
         navigation('meme', 'Meme');
       ?>
     </ul>
