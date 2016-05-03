@@ -62,7 +62,7 @@ function viewArtis(username) {
 }
 
 function viewMeme(keyword) {
-  var url = 'memes/' + keyword;
+  var url = '/meme/' + 'memes/' + keyword;
   window.location.href = url;
 }
 
