@@ -24,45 +24,45 @@
     <div class="container">
           <div class="row">
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-          </div>
-          <hr>
-          <div class="row">
-            <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
-              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
-            </div>
-            <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
           </div>
           <hr>
           <div class="row">
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
             <div class="col-md-4 meme-div" align="center">
-              <img src="https://placehold.it/200x200" alt="Meme" class="meme"/><br><br>
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
+              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
+            </div>
+          </div>
+          <hr>
+          <div class="row">
+            <div class="col-md-4 meme-div" align="center">
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
+              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
+            </div>
+            <div class="col-md-4 meme-div" align="center">
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
+              <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
+            </div>
+            <div class="col-md-4 meme-div" align="center">
+              <img src="https://placehold.it/350x350" alt="Meme" class="meme"/><br><br>
               <button class="btn btn-warning" onclick="viewMeme('example')">Read</button>
             </div>
           </div>
