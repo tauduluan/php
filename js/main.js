@@ -68,5 +68,5 @@ function viewMeme(keyword) {
 
 function memeNav(number) {
   var url = number;
-  window.location.href = '/meme/memes/' + url;
+  window.location.href = window.location.href + '/' + url;
 }
