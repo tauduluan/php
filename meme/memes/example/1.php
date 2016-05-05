@@ -32,9 +32,9 @@
           <a href="javascript:memeNav(1)" class="btn btn-success previous">Previous</a>
 
           <ul>
-            <li><a href="javascript:memeNav(1)">1</a></li>
-            <li><a href="javascript:memeNav(2)">2</a></li>
-            <li><a href="javascript:memeNav(3)">3</a></li>
+            <li><a href="javascript:memePage(1)">1</a></li>
+            <li><a href="javascript:memePage(2)">2</a></li>
+            <li><a href="javascript:memePage(3)">3</a></li>
           </ul>
 
           <a href="javascript:memeNav(2)" class="btn btn-success next">Next</a>
