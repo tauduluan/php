@@ -73,5 +73,5 @@ function memePage(number) {
 
 function memeNav(number) {
   var url = number;
-  window.location.href = window.location.pathname + '/' + url;
+  window.location.href = window.location.pathname + '/' + url + '.php';
 }
