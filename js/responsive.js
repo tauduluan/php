@@ -33,8 +33,6 @@ $(document).ready(function (){
       thirdHottest.css('width', costumizedWidth);
       meme.css('width', costumizedWidth);
       tristan.css('width', costumizedWidth);
-      facebook.css('width', '100%');
-      twitter.css('width', '100%');
     }
     else if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1 ){
       // Set the width css
