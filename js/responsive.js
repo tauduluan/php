@@ -22,30 +22,30 @@ $(document).ready(function (){
 
     if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
       // Set the width css
-      image.css('width', width - 35);
-      headline.css('width', costumizedWidth);
-      ads.css('width', costumizedWidth);
+      image.css('width', '100%');
+      headline.css('width', '100%');
+      ads.css('width', '100%');
       artisAds.css('height', minimizedHeight);
-      artisAds.css('width', costumizedWidth);
-      imagePost.css('width', costumizedWidth);
-      hottest.css('width', width - 57);
-      secondHottest.css('width', costumizedWidth);
-      thirdHottest.css('width', costumizedWidth);
-      meme.css('width', costumizedWidth);
-      tristan.css('width', costumizedWidth);
+      artisAds.css('width', '100%');
+      imagePost.css('width', '100%');
+      hottest.css('width', '100%');
+      secondHottest.css('width', '100%');
+      thirdHottest.css('width', '100%');
+      meme.css('width', '100%');
+      tristan.css('width', '100%');
     }
     else if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1 ){
       // Set the width css
-      image.css('width', width - 35);
-      headline.css('width', costumizedWidth);
-      ads.css('width', costumizedWidth);
+      image.css('width', '100%');
+      headline.css('width', '100%');
+      ads.css('width', '100%');
       artisAds.css('height', minimizedHeight);
-      artisAds.css('width', costumizedWidth);
-      imagePost.css('width', costumizedWidth);
-      hottest.css('width', width - 57);
-      secondHottest.css('width', costumizedWidth);
-      thirdHottest.css('width', costumizedWidth);
-      meme.css('width', costumizedWidth);
-      tristan.css('width', costumizedWidth);
+      artisAds.css('width', '100%');
+      imagePost.css('width', '100%');
+      hottest.css('width', '100%');
+      secondHottest.css('width', '100%');
+      thirdHottest.css('width', '100%');
+      meme.css('width', '100%');
+      tristan.css('width', '100%');
     }
 });
