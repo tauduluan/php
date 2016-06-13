@@ -1,5 +1,5 @@
 <?php
-  $url = "https://tau-duluan.herokuapp.com/";
+  $url = "https://tauduluan.herokuapp.com/";
   function navigation($link, $title){
     // Global url variable
     global $url;
